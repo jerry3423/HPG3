@@ -1,0 +1,33 @@
+﻿  allocator.cpp
+  context_helpers.cpp
+  error.cpp
+  to_string.cpp
+  vkbuffer.cpp
+  vkimage.cpp
+  vkobject.cpp
+  vkutil.cpp
+  vulkan_context.cpp
+  vulkan_window.cpp
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x315 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x5c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x5c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x5c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vkutil.cpp(1,1): warning C4828: 文件包含在偏移 0x5c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4e7e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4e7f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4e82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4e83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4f9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4f9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4fa2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4fa3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4fa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x4faa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x50a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x50a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x50aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: 文件包含在偏移 0x50ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  labutils.vcxproj -> D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\lib\labutils-debug-x64-msc-v143.lib

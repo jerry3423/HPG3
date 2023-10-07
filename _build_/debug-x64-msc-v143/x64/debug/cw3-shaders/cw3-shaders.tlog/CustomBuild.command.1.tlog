@@ -1,0 +1,30 @@
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\DEFAULT.FRAG
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/default.frag.spv" "default.frag"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\DEFAULT.VERT
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/default.vert.spv" "default.vert"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\FILTERBRIGHT.FRAG
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/filterbright.frag.spv" "filterbright.frag"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\FILTERBRIGHT.VERT
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/filterbright.vert.spv" "filterbright.vert"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\FULLSCREEN.FRAG
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/fullscreen.frag.spv" "fullscreen.frag"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\FULLSCREEN.VERT
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/fullscreen.vert.spv" "fullscreen.vert"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\HORIZONTALBLUR.FRAG
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/horizontalblur.frag.spv" "horizontalblur.frag"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\HORIZONTALBLUR.VERT
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/horizontalblur.vert.spv" "horizontalblur.vert"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\VERTICALBLUR.FRAG
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/verticalblur.frag.spv" "verticalblur.frag"
+^D:\LEEDS\HIGH-PERFORMANCE GRAPHICS\COURSEWORK3\CW3\CW3\CW3\SHADERS\VERTICALBLUR.VERT
+IF NOT EXIST "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders" (mkdir "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\\assets\cw3\shaders")
+"D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\High-Performance Graphics\coursework3\cw3\cw3\/assets/cw3/shaders/verticalblur.vert.spv" "verticalblur.vert"
