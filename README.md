@@ -1,6 +1,6 @@
 # HPG3
 
-本项目使用vulkan实现后处理操作，包括tone mapping和bloom效果，如下所示：
+本项目实现了管线中的后处理，包括tone mapping（HDR-LDR）和通过高斯模糊实现bloom效果，如下所示：
 
 ![afterHDR](https://github.com/jerry3423/HPG3/assets/64965545/56d14a0a-98ac-4b8e-a404-a5b40ff36f49)
 ![beforeHDR](https://github.com/jerry3423/HPG3/assets/64965545/aa18632c-e4b0-4304-b6e5-fd2f79d4e1c9)
